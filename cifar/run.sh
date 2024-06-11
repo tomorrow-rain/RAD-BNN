@@ -1,0 +1,1 @@
+python main.py --gpus 0 --model resnet20_1w1a --results_dir ./result --data_path ./cifar10 --dataset cifar10 --epochs 600

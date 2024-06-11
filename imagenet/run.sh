@@ -1,0 +1,1 @@
+python -u main.py --gpus 0 --model resnet18_1w1a --results_dir ./result --dataset imagenet -b 256 -bt 128 --warm_up
